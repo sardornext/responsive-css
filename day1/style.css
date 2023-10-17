@@ -8,6 +8,7 @@ body {
 
 .parent {
   background-color: #23424A;
+  color: white;
   padding: 50px;
 
   /* width: 900px; */
@@ -17,5 +18,5 @@ body {
 
 .child {
   background-color: #38CFD9;
-  height: 250px;
+  /* height: 250px; */
 }
