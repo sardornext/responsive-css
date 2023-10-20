@@ -19,12 +19,22 @@ body{
 
 button {
   background-color: #38CFD9;
-  color: #060c0e;
+  color: #23424A;
   border: 1px solid #38CFD9;
   border-radius: 100px;
   padding: 16px 48px 15px 49px;
+  font-size: 21px;
 }
 
 h1 , p , button {
   margin-bottom: 20px;
 }
+
+h1 {
+  font-size: 48px;
+}
+
+p {
+  font-size: 21px;
+  color: #136C72;
+} 
